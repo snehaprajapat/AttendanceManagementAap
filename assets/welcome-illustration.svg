@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Person working on laptop illustration -->
+  <rect x="150" y="150" width="100" height="80" fill="#6c63ff" rx="5"/>
+  <rect x="170" y="160" width="60" height="40" fill="#ffffff" rx="2"/>
+  <circle cx="200" cy="120" r="25" fill="#6c63ff"/>
+  <path d="M185 140 C185 140 200 160 215 140" fill="none" stroke="#6c63ff" stroke-width="3"/>
+  <!-- Plant -->
+  <path d="M120 180 Q130 160 140 180" fill="none" stroke="#4CAF50" stroke-width="2"/>
+  <path d="M130 180 Q140 150 150 180" fill="none" stroke="#4CAF50" stroke-width="2"/>
+  <!-- Books -->
+  <rect x="250" y="170" width="30" height="40" fill="#FF5252"/>
+  <rect x="255" y="165" width="30" height="40" fill="#FF7043"/>
+</svg>
